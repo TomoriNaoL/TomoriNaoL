@@ -1,29 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nao</h1>
 
-<h3 align="left">About Me:</h3>
 
-- ✨ I'm a **programming enthusiast**
+## About Me
 
-- 🏫 I'm currently studying at **WKU(WHENZHOU-KEAN UNIVERSITY)**
+- 🎓 Undergraduate student at **Wenzhou-Kean University**
+- 🧠 Interested in **AI Agents, Python and Backend Development**
+- 🛠️ Currently building **Chenguang-Agent-Platform**
+- 🚀 Goal: To become an **AI Agent / AI Application Developer**
 
-- 🌱 I'm currently learning **python**
 
-<h3 align="left">Connect with Me:</h3>
-<p align="left">
-Email: 3247942946@qq.com
+## Tech Stack & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,linux,docker,github,vscode,pycharm" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=py" width="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="48" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" />
-  <img src="https://skillicons.dev/icons?i=html" width="48" />
-  <img src="https://skillicons.dev/icons?i=css" width="48" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" />
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" />
-  <img src="https://skillicons.dev/icons?i=pycharm" width="48" />
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" />
-  </p>
+
+## Contact Me
+
+- 📧 Email: tomorinaol223@163.com / 324794246@qq.com
+- 📢 WeChat: \_421uvmm223_
