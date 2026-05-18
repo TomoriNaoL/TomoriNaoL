@@ -11,7 +11,7 @@
 
 ## 📦 Projects
 
-- 🤖 <a src="https://github.com/TomoriNaoL/chenguang-agent-platform">**chenguang-agent-platform**</a>: a foundational platform for enterprises to integrate and manage llms and agents.
+- 🤖 <a href="https://github.com/TomoriNaoL/chenguang-agent-platform" target="_blank" rel="noopener noreferrer">**chenguang-agent-platform**</a>: a foundational platform for enterprises to integrate and manage llms and agents.
 
 
 ## 🛠️ Tech Stack & Tools
