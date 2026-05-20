@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,linux,docker,github,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,linux,docker,redis,github,vscode,pycharm" />
 </p>
 
 
