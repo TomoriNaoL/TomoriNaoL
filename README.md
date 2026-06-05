@@ -13,6 +13,7 @@
 
 - 🤖 <a href="https://github.com/TomoriNaoL/chenguang-agent-platform" target="_blank" rel="noopener noreferrer">**chenguang-agent-platform**</a>: a foundational platform for enterprises to integrate and manage llms and agents.
 
+- 🔊 <a href="https://github.com/TomoriNaoL/ai-interpreter" target="_blank" rel="noopener noreferrer">**ai-interpreter**</a>: ai simultaneous interpretation assistant - real-time speech recognition and translation web application.
 
 ## 🛠️ Tech Stack & Tools
 
